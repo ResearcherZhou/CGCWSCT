@@ -6,4 +6,4 @@ The dataset contains all the data used for multi-objective optimization, mainly 
 The code mainly includes the code for multi-objective optimization and the code for debugging the proxy model. The code for debugging the proxy model - comparison of the proxy models of GRF + SCR + RF. The code for multi-objective optimization - multi-objective optimization of NSAG_2 + GRF.
 # Download
 All the data can be downloaded from one of the following links
-1.Baidu Netdisk: https:// Extraction code: sdum
+1.Baidu Netdisk: https://pan.baidu.com/s/1iRVg5wJtm1NrY_WGs78Zxg code:7a6a
